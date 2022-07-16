@@ -3,7 +3,7 @@
 
 ### I am K.Sriram, a Software Engineer and a Freelancer from Bangalore,India.
 
-- 🔭 Currently working as Freelance Web Developer and App Developer.
+- 🔭 Currently working as <b>Freelance Web Developer and App Developer</b>.
 - 🔭 Worked as SDE at Tata Consultancy Services
 - 😄 My areas of interest are  Web development, Competitive programming, DS algo and System Design.
 - ⚡My competitive profiles: [Codechef](https://www.codechef.com/users/kidcode12) , [Leetcode](https://leetcode.com/sriramk12ksriram) , [Codeforces](https://codeforces.com/profile/kidcode12) 
