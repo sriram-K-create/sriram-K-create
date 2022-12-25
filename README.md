@@ -6,7 +6,7 @@
 - 🔭 Currently working as <b>Freelance Web Developer and App Developer</b>.
 - 🔭 Worked as <b>SDE at Tata Consultancy Services</b>.
 - 😄 My areas of interest are  Web development, Competitive programming, DS&Algo and System Design.
-- ⚡My competitive profiles: [Codechef](https://www.codechef.com/users/kidcode12) , [Leetcode](https://leetcode.com/sriramk12ksriram) , [Codeforces](https://codeforces.com/profile/kidcode12) 
+- ⚡My competitive profiles: [Codechef](https://www.codechef.com/users/kidcode12) , [Leetcode](https://leetcode.com/sriramk12ksriram) , [Codeforces](https://codeforces.com/profile/kidcode12) , [InterveiwBit](https://www.interviewbit.com/profile/ksriram123) , [Hackerrank](https://www.hackerrank.com/sriramk12ksriram)
  
  ### 🔧 Languages and Frameworks:
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
